@@ -15,5 +15,6 @@ output/Data/
 output/__pycache__/
 output/**/*.pyc
 
-# Bỏ qua tệp tin nén cục bộ (chỉ dùng để kéo thả lên GitHub Releases)
+# Bỏ qua tệp tin nén cục bộ và Token bí mật
 MDSave.zip
+github_token.txt
