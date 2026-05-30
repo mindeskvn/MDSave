@@ -1,12 +1,12 @@
 {
   "name": "MDSave - Download Social Videos (Multi-Platform)",
-  "version": "2.9.5",
+  "version": "2.9.7",
   "release_date": "2026-05-30",
-  "download_url": "https://github.com/mindeskvn/MDSave/releases/download/v2.9.5/MDSave.zip",
+  "download_url": "https://github.com/mindeskvn/MDSave/releases/download/v2.9.7/MDSave.zip",
   "changelog": [
-    "Xây dựng trang giới thiệu Landing Page (index.html) chuyên nghiệp cho dự án",
-    "Tích hợp tính năng tự động phát hiện ngôn ngữ trình duyệt (Tiếng Việt/Tiếng Anh)",
-    "Hỗ trợ nạp thông tin phiên bản động từ tệp version.json lên trang Landing Page",
-    "Khắc phục lỗi mất cấu hình GitHub Remote khi thư mục .git bị làm trống"
+    "Tách biệt tài liệu hướng dẫn thành README.md (Tiếng Anh) và README.vi.md (Tiếng Việt)",
+    "Bổ sung liên kết nhanh bằng Emoji cờ các quốc gia để chuyển đổi ngôn ngữ nhanh trên GitHub",
+    "Khắc phục lỗi mất cấu hình GitHub Remote khi thư mục .git bị làm trống",
+    "Nâng cấp độ ổn định của hệ thống tải video"
   ]
 }
