@@ -1,0 +1,9 @@
+# Quyết định: Bỏ qua toàn bộ mã nguồn của dự án
+# Chỉ cho phép theo dõi và đẩy file version.json và file .gitignore lên GitHub.
+
+*
+
+# Các ngoại lệ không bị bỏ qua (đẩy lên GitHub)
+!version.json
+!.gitignore
+!README.md
