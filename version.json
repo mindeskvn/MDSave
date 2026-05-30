@@ -1,0 +1,11 @@
+{
+  "name": "MDSave - Download Social Videos (Multi-Platform)",
+  "version": "2.9.4",
+  "release_date": "2026-05-30",
+  "download_url": "https://github.com/mindeskvn/MDSave/releases/download/v2.9.4/MDSave.zip",
+  "changelog": [
+    "Khắc phục lỗi mất cấu hình GitHub Remote khi thư mục .git bị làm trống hoặc bị xóa",
+    "Tự động đồng bộ hóa Repository đích từ xa dựa trên URL Git cấu hình",
+    "Nâng cấp độ ổn định của hệ thống tải video"
+  ]
+}

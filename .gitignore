@@ -1,0 +1,8 @@
+# Bỏ qua toàn bộ tệp tin trong thư mục push_github này
+*
+
+# Các ngoại lệ không bị bỏ qua (sẽ được đẩy lên GitHub)
+!version.json
+!.gitignore
+!README.md
+!preview.png
