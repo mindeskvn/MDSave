@@ -1,5 +1,5 @@
-# Quyết định: Bỏ qua toàn bộ mã nguồn của dự án
-# Chỉ cho phép theo dõi và đẩy file version.json và file .gitignore lên GitHub.
+# Quyết định: Bỏ qua toàn bộ mã nguồn của dự án (main.py, thư mục src gốc, setup.bat...)
+# Chỉ cho phép theo dõi và đẩy file version.json, .gitignore, README.md và thư mục đóng gói output.
 
 *
 
@@ -7,3 +7,10 @@
 !version.json
 !.gitignore
 !README.md
+!output/
+!output/**
+
+# Bỏ qua dữ liệu tạm/lịch sử/cache trong thư mục đóng gói output
+output/Data/
+output/__pycache__/
+output/**/*.pyc
